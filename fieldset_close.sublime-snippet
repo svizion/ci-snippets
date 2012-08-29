@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+form_fieldset_close();
+]]></content>
+
+	<tabTrigger>fset_close</tabTrigger>
+   <scope>source.php, source.php.embedded.block.html</scope>
+   <description>CI - Form Fieldset Close</description>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+form_fieldset($1);
+]]></content>
+
+	<tabTrigger>fset_open</tabTrigger>
+   <scope>source.php, source.php.embedded.block.html</scope>
+   <description>CI - Form Fieldset Open</description>
+</snippet>
